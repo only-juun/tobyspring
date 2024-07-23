@@ -1,4 +1,6 @@
-package onlyjoonspring.hellospring;
+package onlyjoonspring.hellospring.exrate;
+
+import onlyjoonspring.hellospring.payment.ExRateProvider;
 
 import java.io.IOException;
 import java.math.BigDecimal;

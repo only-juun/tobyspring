@@ -1,4 +1,4 @@
-package onlyjoonspring.hellospring;
+package onlyjoonspring.hellospring.payment;
 
 import java.io.IOException;
 import java.math.BigDecimal;
